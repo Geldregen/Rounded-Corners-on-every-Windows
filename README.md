@@ -1,17 +1,10 @@
 
-# ShapeCorners
-<img src="https://i.imgur.com/H9nuCv8.png" alt="img" align="right" width="400px">
-KDE effect rounds/chisels corners of your windows.
-
-Fork of https://sourceforge.net/projects/shapecorners/
-
+# ROUNDED CORNERS
+<img src="https://i.ibb.co/61F3tzD/Screenshot-1.png" alt="img" align="right" width="400px">
 ### Features:
 - Customizable via config file
 - Different types of corner: `Rounded` and `Chiseled`
 - Each corner can have different radius
-- Ability to square corner when windows edge is at screen edge.
-- Ability to define `Whitelist` and `Blacklist` to exclude/force applying ShapeCorners
-
 ## Dependencies
 - Distro Debian based (Ubuntu, Kubuntu):
 ```
